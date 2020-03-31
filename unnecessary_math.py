@@ -9,5 +9,10 @@
 #
 
 def multiply(a, b):
+    """
+    >>> multiply(3, 4)
+    12
+    """
+
     return a * b
 
